@@ -1,0 +1,37 @@
+{
+  "name": "rn-circle-quick-actions",
+  "version": "1.0.0",
+  "description": "A React Native library to display a modal popup quick actions menu",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viettranx/rn-circle-quick-actions.git"
+  },
+  "keywords": [
+    "react-native",
+    "quick",
+    "actions",
+    "popup"
+  ],
+  "peerDependencies": {
+    "react": "^16.0",
+    "react-native": "^0.51 || ^0.52 || ^0.53 || ^0.54 || ^0.55",
+    "prop-types": "^15.0 || ^16.0"
+  },
+  "devDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^16.3.0-alpha.1",
+    "react-native": "^0.54",
+    "react-native-status-bar-height": "^2.0.0"
+  },
+  "author": "viettranx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viettranx/rn-circle-quick-actions/issues"
+  },
+  "homepage": "https://github.com/viettranx/rn-circle-quick-actions#readme"
+}
