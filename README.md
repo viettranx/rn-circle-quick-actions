@@ -53,7 +53,7 @@ const QuickActionView () => (
 
 We provided some lifecycle methods (shouldEnable, willOpen, didOpen, didClose) to enable more control your scroll view.
 
-This is an example with Flatlist.
+This is an example with Flatlist. We need to control scroll enabled to use pan gesture.
 
 ```
 export default class App extends Component {
